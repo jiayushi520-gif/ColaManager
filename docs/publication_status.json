@@ -1,6 +1,6 @@
 {
   "target_version": "2.0.0",
-  "status": "github-publishing-authorized",
+  "status": "published-github-and-routinehub",
   "github_repository_url": "https://github.com/jiayushi520-gif/ColaManager",
   "license_selected": true,
   "license": "MIT",
@@ -11,7 +11,7 @@
   "iphone_full_app_icloud_disabled": "user explicitly confirmed full-app basic tests passed on iOS 26.1 with iCloud Drive disabled",
   "full_iphone_acceptance": "partial; advanced and failure cases pending",
   "mac_native_execution": "user-authorized isolated rule workflow: 11/11 passed; full storage UI not tested",
-  "github_release_url": null,
-  "routinehub_url": null,
-  "apple_share_url": null
+  "github_release_url": "https://github.com/jiayushi520-gif/ColaManager/releases/tag/v2.0.0",
+  "routinehub_url": "https://routinehub.co/shortcut/26832/",
+  "apple_share_url": "https://www.icloud.com/shortcuts/58dce0926d154d95a3c3698637ad4a06"
 }

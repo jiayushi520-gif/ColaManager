@@ -11,7 +11,10 @@
 主程序安装后保留名称 ColaManager，保存到我的 iPhone。
 许可证已由所有者确认使用 MIT。Mac 隔离规则测试 11/11、Python 测试 30/30 通过。
 用户已确认公开发布；本次按上述有限验证范围分发，不代表专项及异常场景全部通过。
-真实 iPhone 截图待补；RoutineHub 和 Apple 分享 URL 尚未就绪。
+真实 iPhone 截图待补。
+[RoutineHub](https://routinehub.co/shortcut/26832/) ·
+[Apple 安装链接](https://www.icloud.com/shortcuts/58dce0926d154d95a3c3698637ad4a06)。
+分享副本名为 ColaManager-v2.0.0；使用中文子入口前，应备份/改名旧版并将新主程序改名为 ColaManager。
 
 ## 安装
 

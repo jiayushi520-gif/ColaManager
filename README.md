@@ -45,8 +45,11 @@ Apple 安装分享与运行时 iCloud Drive 是不同用途。
 
 源码：[GitHub](https://github.com/jiayushi520-gif/ColaManager)。
 安装文件：[GitHub Releases](https://github.com/jiayushi520-gif/ColaManager/releases)。
-真实 iPhone 截图待补，不用模拟界面冒充。RoutineHub 和 Apple 分享链接尚未就绪；
-可通过 Release 的 Apple 官方签名文件安装。所有者已选择 MIT 许可证，见 LICENSE。
+[RoutineHub 安装页](https://routinehub.co/shortcut/26832/) ·
+[Apple 安装链接](https://www.icloud.com/shortcuts/58dce0926d154d95a3c3698637ad4a06)。
+分享副本名称为 ColaManager-v2.0.0，可独立运行；如需中文子入口，请先备份或改名旧版，
+再将新主程序改名为 ColaManager，避免入口调用旧程序。分享链接不包含个人记录。
+真实 iPhone 截图待补，不用模拟界面冒充。MIT 许可证见 LICENSE。
 
 ## 开发
 

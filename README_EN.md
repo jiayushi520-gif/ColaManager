@@ -34,5 +34,9 @@ Keep independent JSON backups. Device loss, reset or deletion can destroy local 
 No screenshots or public install links have been fabricated.
 [Source](https://github.com/jiayushi520-gif/ColaManager) and
 [signed downloads](https://github.com/jiayushi520-gif/ColaManager/releases) are hosted on GitHub.
-RoutineHub and Apple share links remain pending. Licensed under MIT with owner approval; see LICENSE.
+[RoutineHub](https://routinehub.co/shortcut/26832/) and
+[Apple install link](https://www.icloud.com/shortcuts/58dce0926d154d95a3c3698637ad4a06).
+The shared name is ColaManager-v2.0.0. For optional entry shortcuts, back up/rename any old
+ColaManager first, then rename the new main shortcut to ColaManager.
+Licensed under MIT with owner approval; see LICENSE.
 See README.md and docs/ for build and test details.

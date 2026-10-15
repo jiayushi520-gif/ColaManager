@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "apple_share_url": "https://www.icloud.com/shortcuts/58dce0926d154d95a3c3698637ad4a06",
+  "shared_name": "ColaManager-v2.0.0",
+  "source": "Apple Shortcuts macOS Copy iCloud Link, owner authorized",
+  "original_shortcut_preserved": true,
+  "shortcut_executed": false,
+  "routinehub_id": 26832,
+  "routinehub_status": "published; owner agreed to submission rules; website confirmed Shortcut published",
+  "routinehub_url": "https://routinehub.co/shortcut/26832/",
+  "entrypoint_note": "Standalone use works under the shared name. To use optional entry shortcuts, back up/rename an existing legacy ColaManager and rename the new main workflow to ColaManager."
+}
