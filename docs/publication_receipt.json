@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "published_at": "2026-10-15T11:10:43Z",
+  "github_repository": "https://github.com/jiayushi520-gif/ColaManager",
+  "github_release": "https://github.com/jiayushi520-gif/ColaManager/releases/tag/v2.0.0",
+  "draft": false,
+  "prerelease": false,
+  "ci": "https://github.com/jiayushi520-gif/ColaManager/actions/runs/38725203077",
+  "ci_conclusion": "success",
+  "assets": {
+    "ColaManager-v2.0.0.shortcut": "47444575061ce727a8df4fb903e78a5e2dec47c498ce20d4b88c196c46b1677c",
+    "ColaManager-v2.0.0.zip": "0023f09d16758ed2ae4c5d405845f3d83afae7cdab08af681f5f2c7b8d792777"
+  },
+  "routinehub": "not published; owner reports no account; registration and real Apple share URL required",
+  "apple_share_url": null,
+  "note": "Post-release receipt. publication_status.json and SHA256SUMS.json describe the packaged pre-publication snapshot; this receipt is added afterwards."
+}
