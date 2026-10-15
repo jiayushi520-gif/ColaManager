@@ -1,0 +1,9 @@
+work/
+outputs/
+__pycache__/
+*.pyc
+.DS_Store
+*.swp
+state*.json
+!src/state.schema.json
+!src/state-v2.schema.json

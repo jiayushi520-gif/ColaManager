@@ -1,0 +1,27 @@
+name: Check native sources
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: python3 src/build_release.py
+      - run: python3 src/build_local_probe.py
+      - run: python3 src/build_v2.py
+      - run: python3 -m unittest discover -s tests -p '*_test.py'
+      - run: node --test tests/core.test.js tests/widget.test.js
+        env:
+          TZ: Asia/Shanghai
+      - run: node --test tests/dst.test.js
+        env:
+          TZ: America/New_York
+      - uses: actions/upload-artifact@v4
+        with:
+          name: unsigned-native-workflows-not-installable
+          path: work/v2/*.shortcut

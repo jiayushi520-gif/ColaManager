@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "status": "candidate",
+  "python_tests": {"passed": 30, "failed": 0},
+  "javascript_business_assertions": {"passed": 21, "failed": 0},
+  "legacy_widget_mock_assertions": {"passed": 9, "failed": 0},
+  "dst_assertions": {"passed": 3, "failed": 0},
+  "signing": "9 artifacts signed using Apple shortcuts sign; source/output hashes in sign-results.json",
+  "source_secret_scan": "no matches for scanned token, key, cookie, personal absolute path patterns",
+  "signing_service_retry": "transient NSURLErrorDomain 500; retry succeeded",
+  "native_mac_execution": "11/11 isolated rule fixtures passed after owner authorization; does not cover file-picker persistence",
+  "iphone_os_version": "26.1",
+  "iphone_basic_acceptance": "passed according to user feedback: initialization, record reread, rinse, brush, duplicate prevention, backup/restore, offline and reboot",
+  "full_iphone_acceptance": "partial; advanced cases pending; user confirmed full-app basic tests passed with iCloud Drive disabled on iOS 26.1",
+  "isolated_probe": "passed according to user feedback, iOS version unspecified",
+  "tests_are_not_device_certification": true
+}

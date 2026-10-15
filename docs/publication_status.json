@@ -1,0 +1,17 @@
+{
+  "target_version": "2.0.0",
+  "status": "github-publishing-authorized",
+  "github_repository_url": "https://github.com/jiayushi520-gif/ColaManager",
+  "license_selected": true,
+  "license": "MIT",
+  "public_release_approved": true,
+  "iphone_probe_user_report": "passed; local picker, iCloud Drive disabled, restart reread",
+  "iphone_os_version": "26.1",
+  "iphone_basic_acceptance": "user-reported pass: initialization, record reread, rinse, brush, duplicate prevention, backup/restore, offline and reboot",
+  "iphone_full_app_icloud_disabled": "user explicitly confirmed full-app basic tests passed on iOS 26.1 with iCloud Drive disabled",
+  "full_iphone_acceptance": "partial; advanced and failure cases pending",
+  "mac_native_execution": "user-authorized isolated rule workflow: 11/11 passed; full storage UI not tested",
+  "github_release_url": null,
+  "routinehub_url": null,
+  "apple_share_url": null
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ColaManager",
+    "exit_code": 0,
+    "filename": "ColaManager-v2.0.0.shortcut",
+    "sha256": "47444575061ce727a8df4fb903e78a5e2dec47c498ce20d4b88c196c46b1677c",
+    "source_sha256": "1d63f5b6f8b4a9aa4fb97e974c69eb4813181644a6688103a75f493c1c60b130",
+    "signed_container": true
+  },
+  {
+    "name": "我要喝可乐",
+    "exit_code": 0,
+    "filename": "我要喝可乐.shortcut",
+    "sha256": "8d4034582b088f49a97e9c9424ffa1583ba3bd6027a53048987cc9503a7c93c9",
+    "source_sha256": "a9642c34915561cbe20c880bbd82a12084c05821a0ac34881e160db1eb015b69",
+    "signed_container": true
+  },
+  {
+    "name": "我已经漱口",
+    "exit_code": 0,
+    "filename": "我已经漱口.shortcut",
+    "sha256": "4e161b5fca019b7abe872f176d1bce2abf1d8c9cb68b03d998fc0a3f044db76f",
+    "source_sha256": "fb31709a724efb9d654381837a4b5501d38d61f0fc96ee2ea2a1d333dc977084",
+    "signed_container": true
+  },
+  {
+    "name": "我已经刷牙",
+    "exit_code": 0,
+    "filename": "我已经刷牙.shortcut",
+    "sha256": "2cb2d701eb9dffd39bbf98cbda770ab762f28be5a4157419c292e25846896f4f",
+    "source_sha256": "5724a2167dccb292ceca43f5e521d2bc37060bb1224142138024226a66ce2b89",
+    "signed_container": true
+  },
+  {
+    "name": "查看可乐统计",
+    "exit_code": 0,
+    "filename": "查看可乐统计.shortcut",
+    "sha256": "c2910b30b9146c7c996a4af7e4e70d0da2742a3044297939ca5a720786ceea3a",
+    "source_sha256": "fde2dc30500f60715c04f5c15c19b098f8108c8de2ef748c64627cae9a01b489",
+    "signed_container": true
+  },
+  {
+    "name": "可乐每周报告",
+    "exit_code": 0,
+    "filename": "可乐每周报告.shortcut",
+    "sha256": "0637fad285591d8828f1c4154a97b273e3a098b5667a837fc26deb4a17ded431",
+    "source_sha256": "537447d8cea5ddec159eadbf2beaeb82ac9e1da276c16b5280a157c9ecf73148",
+    "signed_container": true
+  },
+  {
+    "name": "可乐截止检查",
+    "exit_code": 0,
+    "filename": "可乐截止检查.shortcut",
+    "sha256": "6bab5d25cbd9e1fa4fc394d7cb601c4f6e64e1db85703d2a6f2543e3e1e2ad06",
+    "source_sha256": "3ecfc3d7c0e4ee9464469cd7ffc87dc419b2bc4bf3283a0c86274a849b9d6b2a",
+    "signed_container": true
+  },
+  {
+    "name": "可乐睡前提醒",
+    "exit_code": 0,
+    "filename": "可乐睡前提醒.shortcut",
+    "sha256": "a33616afa9aa0688623e2cf91049030740663a1a33166d26b11d331eed4140af",
+    "source_sha256": "f057f20549fea0a164272833d21b7d5d8830a5fa4654267d16292152d818448d",
+    "signed_container": true
+  },
+  {
+    "name": "ColaManager-Test",
+    "exit_code": 0,
+    "filename": "ColaManager-Test.shortcut",
+    "sha256": "e37cbcd76eecf85f658380390cf25e905032f145b3cc2be0dca2b91d303e5b25",
+    "source_sha256": "14392e2e9f6160e6e966d375f011a389f78973bf431ac386de8cce89b6c893b6",
+    "signed_container": true
+  }
+]
